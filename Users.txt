@@ -1,0 +1,6 @@
+Administrator,Admin,Password,0,3500.000000
+Andrew Carpio,acarp,12345678,1,270.100006
+Jared Morales,jmora,12344321,2,300.000000
+Serena D'Avanzo,sdava,98765432,3,282.000000
+Demetrius Quintyne,dquin,19283746,4,300.000000
+Joelly Velasquez,jvela,12983476,5,300.000000

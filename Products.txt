@@ -1,0 +1,10 @@
+1000,Lettuce,vegetable,2.99
+1001,Tomato,vegetable,2.00
+1002,Bread,grain,1.80
+1003,Ground Beef,protein,4.80
+1004,Chicken,protein,4.30
+1005,Potato,vegetable,0.90
+1006,Onion,vegetable,0.55
+1007,Bacon,protein,6.60
+1008,Eggs,protein,3.40
+1009,Cheese,dairy,4.70

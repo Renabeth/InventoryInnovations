@@ -1,0 +1,38 @@
+This is just a copy of all text files in case they get overwritten or something
+********************************************************************************
+===============================================
+Users: (name,username,password,dept.,funds)
+Administrator,Admin,Password,0,5000.00
+Andrew Carpio,acarp,12345678,1,0
+Jared Morales,jmora,12344321,2,0
+Serena D'Avanzo,sdava,98765432,3,0
+Demetrius Quintyne,dquin,19283746,4,0
+Joelly Velasquez,jvela,12983476,5,0
+===============================================
+Products: (ID,name,type,price{per pound})
+1000,Lettuce,vegetable,2.99
+1001,Tomato,vegetable,2.00
+1002,Bread,grain,1.80
+1003,Ground Beef,protein,4.80
+1004,Chicken,protein,4.30
+1005,Potato,vegetable,0.90
+1006,Onion,vegetable,0.55
+1007,Bacon,protein,6.60
+1008,Eggs,protein,3.40
+1009,Cheese,dairy,4.70
+===============================================
+Storage: (ID,name,type,quantity)
+1000,Lettuce,vegetable,20
+1001,Tomato,vegetable,20
+1002,Bread,grain,20
+1003,Ground Beef,protein,20 
+1004,Chicken,protein,20
+1005,Potato,vegetable,20
+1006,Onion,vegetable,20
+1007,Bacon,protein,20
+1008,Eggs,protein,20
+1009,Cheese,dairy,20 
+===============================================
+Transactions: (ID,quantity(lb),TotalCost,Date)
+(--empty for now--)
+===============================================

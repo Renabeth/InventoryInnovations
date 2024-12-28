@@ -1,0 +1,10 @@
+1000,Lettuce,vegetable,30
+1001,Tomato,vegetable,20
+1002,Bread,grain,20
+1003,Ground Beef,protein,20
+1004,Chicken,protein,20
+1005,Potato,vegetable,30
+1006,Onion,vegetable,20
+1007,Bacon,protein,20
+1008,Eggs,protein,20
+1009,Cheese,dairy,20
