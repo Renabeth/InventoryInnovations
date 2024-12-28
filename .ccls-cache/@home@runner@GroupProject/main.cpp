@@ -5,7 +5,7 @@
 // Date:           5/15/2023 
 // Version:        V1
 // System Name:    Inventory Innovations
-//******************************************************************
+//*******************************************************************
 #include "Product.h"
 #include "User.h"
 #include "PurchasedFood.h"
